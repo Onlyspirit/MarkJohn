@@ -16,12 +16,11 @@ button2.style.display = 'block'
     const compendium = {
     naming, email, pass
   }
-    allForm.push = {compendium}
-    console.log(allForm);
+  allForm.push = {compendium}
+  console.log(allForm);
   }
 
-  const username = document.getElementById('username').value
-  localStorage.setItem('username', username)
+  
 };
 
 
