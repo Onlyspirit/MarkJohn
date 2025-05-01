@@ -9,13 +9,15 @@ input {
     /* padding-right: .2em; */
     /* padding-top: .2em; */
     margin: 0;
+    overflow: hidden;
+    /* height: 100vh; */
   }
 .parent{
   background-color: #ffc5c5;
   /* padding-bottom: 2em; */
   /* margin: 0.2em; */
   padding: 0.6em;
-  padding-bottom:10em;
+  padding-bottom:20em;
   padding-top: 10em;
 }
   h1 {
